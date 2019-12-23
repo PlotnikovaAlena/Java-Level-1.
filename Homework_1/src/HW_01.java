@@ -68,9 +68,7 @@ public class HW_01 {
         else
             System.out.println("Число отрицательное");
     }
-
-    //5 - 6. Написать метод, которому в качестве параметра передается целое число, метод должен
-    //вернуть true, если число отрицательное;
+    
     static boolean Exercise_6(int a) {
         System.out.println("");
         System.out.println("Exercise_6.");

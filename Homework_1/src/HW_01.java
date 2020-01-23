@@ -1,5 +1,6 @@
 public class HW_01 {
 
+
 // Плотникова Алёна
 // Домашнее задание к 1 уроку "Java. Уровень первый."
 
@@ -70,8 +71,6 @@ public class HW_01 {
             System.out.println("Число отрицательное");
     }
 
-    //5 - 6. Написать метод, которому в качестве параметра передается целое число, метод должен
-    //вернуть true, если число отрицательное;
     static boolean Exercise_6(int a) {
         System.out.println("");
         System.out.println("Exercise_6.");
